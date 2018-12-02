@@ -1,2 +1,2 @@
 # millipede
-a crawler that can parallel crawl website content 
+a crawler that can concurrent crawl website content 
